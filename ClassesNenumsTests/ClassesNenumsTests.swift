@@ -19,7 +19,7 @@ class ClassesNenumsTests: XCTestCase {
         super.tearDown()
     }
     
-    func test
+//    func tes t
     
     
 
